@@ -56,3 +56,26 @@ h2 {
 .txt-apresentacao {
     width: 40%;
 }
+#sobre-mim {
+    height: 85vh;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+#sobre-mim h2 {
+    font-size: 1.8rem;
+    width: 100%;
+    text-align: center;
+}
+#sobre-mim h3{
+   font-size: 1.7rem;
+}
+
+#sobre-mim article {
+    font-size: 1.3rem;
+    flex: 1;
+    line-height: 1.9;
+}
