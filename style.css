@@ -3,6 +3,10 @@
     margin: 0;
     box-sizing: border-box;
 }
+#btn-menu, 
+.icone-menu{
+    display: none;
+}
 body {
 
     background: linear-gradient(90deg, rgba(24, 24, 27, 1) 0%, rgba(45, 61, 57, 1) 27%, rgba(45, 61, 57, 1) 77%, rgba(24, 24, 27, 1) 100%);
