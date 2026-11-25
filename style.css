@@ -162,8 +162,148 @@ padding: 10px;
     transition: 0.3s;
     background-color: #0b3b2d42;
 }
-
 .menu-disciplinas li:hover {
-    
     transform: scale(1.05);
+}
+.conteudo-disciplinas {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    flex-direction: column;
+}
+#m1 {
+    height: 100vh;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    line-height: 1.7;
+    width: 80%;
+    padding: 20px;
+    
+}
+#m1 h4{
+    font-size: 1.8rem;
+}
+#m1 p{
+    font-size: 1.2rem;
+}
+#m2 {
+    height: 100vh;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    line-height: 1.7;
+    width: 80%;
+    padding: 20px;
+    
+}
+#m2 h4{
+    font-size: 1.8rem;
+}
+#m2 p{
+    font-size: 1.2rem;
+}
+#m3 {
+    height: 100vh;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    line-height: 1.7;
+    width: 80%;
+    padding: 20px;
+    
+}
+#m3 h4{
+    font-size: 1.8rem;
+}
+#m3 p{
+    font-size: 1.2rem;
+}
+#m4 {
+    height: 100vh;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    line-height: 1.7;
+    width: 80%;
+    padding: 20px;
+    
+}
+#m4 h4{
+    font-size: 1.8rem;
+}
+#m4 p{
+    font-size: 1.2rem;
+}
+#m5 {
+    height: 100vh;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    line-height: 1.7;
+    width: 80%;
+    padding: 20px;
+    
+}
+#m5 h4{
+    font-size: 1.8rem;
+}
+#m5 p{
+    font-size: 1.2rem;
+}
+#m6 {
+    height: 100vh;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    line-height: 1.7;
+    width: 80%;
+    padding: 20px;
+    
+}
+#m6 h4{
+    font-size: 1.8rem;
+}
+#m6 p{
+    font-size: 1.2rem;
+}
+#m7 {
+    height: 100vh;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    line-height: 1.7;
+    width: 80%;
+    padding: 20px;
+    
+}
+#m7 h4{
+    font-size: 1.8rem;
+}
+#m7 p{
+    font-size: 1.2rem;
+}
+#m8 {
+    height: 100vh;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    line-height: 1.7;
+    width: 80%;
+    padding: 20px;
+    
+}
+#m8 h4{
+    font-size: 1.8rem;
+}
+#m8 p{
+    font-size: 1.2rem;
 }
